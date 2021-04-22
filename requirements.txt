@@ -1,0 +1,12 @@
+Django==3.2 # High-level Python Web framework - https://github.com/django/django
+djangorestframework==3.12.4 # A powerful and flexible toolkit for building Web APIs - https://github.com/encode/django-rest-framework
+drf-firebase-auth==1.0.0 # Firebase and drf authenticator - https://github.com/garyburgmann/drf-firebase-auth
+drf-spectacular==0.15.1 # Sane and flexible OpenAPI 3.0 drf - https://github.com/tfranzel/drf-spectacular
+django-environ==0.4.5 # To utilize 12factor inspired environment variables to configure your Django application
+whitenoise==5.2.0 # Simplified static file serving for WSGI applications
+gunicorn==20.1.0 # Python WSGI HTTP Server for UNIX
+psycopg2 ===2.8.6 #  PostgreSQL database adapter for the Python programming language
+dj-database-url==0.5.0 # Use Database URLs in your Django Application.
+django-cors-headers==3.7.0 # Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+# dépendances de développement
+black==20.8b1
